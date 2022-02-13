@@ -1,0 +1,5 @@
+SpecFlowNunit/bin/*
+SpecFlowNunit/obj/*
+*.feature.cs
+
+SpecFlowNunit/.DS_Store
