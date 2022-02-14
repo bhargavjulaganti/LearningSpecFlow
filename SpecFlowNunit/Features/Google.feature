@@ -8,6 +8,3 @@ Link to a feature: [Calculator]($projectname$/Features/Calculator.feature)
 @mytag
 Scenario: Add two numbers
 	Given browser is launched
-	# And the second number is 70
-	# When the two numbers are added
-	# Then the result should be 120
